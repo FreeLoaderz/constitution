@@ -1,4 +1,4 @@
-# LexDAO Constitution Information
+# ADAO Constitution Information
 
 Most recently ratified version (v01): IPFS:
 
