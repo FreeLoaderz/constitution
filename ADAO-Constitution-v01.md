@@ -18,11 +18,11 @@ ADAO is not intended to be, and shall not be deemed to be, a partnership.
 
 **Section 1.3 - Not an Investment Company. ADAO is not organized to provide financial services, advice, or investment opportunities. All the content developed by ADAO, with the exception of identifying materials, shall be placed in the public domain or under an open license depending upon the proper circumstances of the product.  ADAO projects and products should not be considered investments and no promises are made that they will hold any value.  
 
-**Section 1.4 - Cooperative principles.** ADAO shall be operated in the spirit of cooperative principles framed by the 1995 General Assembly of the International Co-operative Alliance, including: (i) voluntary and open membership; (ii) democratic member control through distributed ledger smart contract voting management; (iii) member economic participation; (iv) autonomy and independence of LexDAO; (v) providing education, training and information; (vi) cooperation with other DAO cooperatives; and (vii) concern for community.
+**Section 1.4 - Cooperative principles.** ADAO shall be operated in the spirit of cooperative principles framed by the 1995 General Assembly of the International Co-operative Alliance, including: (i) voluntary and open membership; (ii) democratic member control through distributed ledger smart contract voting management; (iii) member economic participation; (iv) autonomy and independence of ADAO; (v) providing education, training and information; (vi) cooperation with other DAO cooperatives; and (vii) concern for community.
 
 **Section 1.5 - Nondiscrimination.** ADAO shall not arbitrarily discriminate on the basis of race, nationality, religion, age, gender, sexual orientation, disability, political affiliation, or otherwise.  
 
-**Section 1.6 - Decentralized Autonomous Organization (DAO).** ADAO is a DAO, an XXXunincorporatedXXX association of individuals, entities, associations and/or other persons or groups of persons who all agree to join together in a common purpose. For LexDAO that purpose is encapsulated in our Mission Statement.
+**Section 1.6 - Decentralized Autonomous Organization (DAO).** ADAO is a DAO, an XXXunincorporatedXXX association of individuals, entities, associations and/or other persons or groups of persons who all agree to join together in a common purpose. For ADAO that purpose is encapsulated in our Mission Statement.
 
 # Article II - Membership
 
@@ -85,8 +85,6 @@ A member may be expelled by ADAO through the Member Removal procedure establishe
 XXXXXXX DO WE NEED TO INCLUDE LANGUAGE THAT SAYS THE DESIGNATED SMART CONTRACT IS ALLOWED TO BUY BACK AGOV TOKENS IN EXCHANGE FOR ASSETS IN THE TREASURY IF WE WISH? XXXXXXX
 
 It is not anticipated that ADAO will ever turn a “profit” as excess capital will be paid out via charitable donations, grants, or other forms of support meant to carry out the Mission Statement. 
-
-**Section 5.2 - Redemption.** Upon request following termination of LexDAO membership or via a future Smart Contract Mechanism to remove capital via a burn of Loot Shares, the Loot Shares shall be redeemed via a mechanism to be determined by LDC members.  A “Rage Quit” is a request to burn both LDC Membership token and Loot Shares. A “Loot Quit”, is simply to burn and withdraw Loot Shares as return of retains.  Loot Shares (if ever created) shall be redeemable at the approved Designated Smart Contract less a reasonable processing fee (if any).
 
 # Article VI - Member Removal and Exit 
 
