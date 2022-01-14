@@ -7,7 +7,7 @@ Most recent ratification DAO vote:
 The above ratified version shall be held as master operating document for ADAO. Any divergent code in this repo or a fork is provisional until ratified.
 
 
-Document based in part on: https://github.com/lexDAO/LexDAO-Constitution
+Document based heavily on: https://github.com/lexDAO/LexDAO-Constitution
 
 
 
