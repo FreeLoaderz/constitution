@@ -2,7 +2,7 @@
 
 ### Originally Adopted XXXXXXX
 
-# Preamble - Mission Statement
+# Preamble
 
 Mission Statement: As users of the Cardano network, the members of ADAO come together to form this organization that will serve our community.  Our founders come from different nations, with different identities, and different walks of life.  But we are brought together in our hope that decentralized technologies will allow us to cooperate in a more honest and more perfect union.
 
