@@ -4,7 +4,7 @@
 
 # Preamble
 
-Mission Statement: As users of the Cardano network, the members of ADAO come together to form this organization that will serve our community.  Our founders come from different nations, with different identities, and different walks of life.  But we are brought together in our hope that decentralized technologies will allow us to cooperate in a more honest and more perfect union.
+As users of the Cardano network, the members of ADAO come together to form this organization that will serve our community.  Our founders come from different nations, with different identities, and different walks of life.  But we are brought together in our hope that decentralized technologies will allow us to cooperate in a more honest and more perfect union.
 
 We seek to operate our organization according to the principles made manifest in blockchain technologies.  Our knowledge shall be shared, and our actions shall be auditable.  Our motivations shall be transparent, and our records shall be immutable.  We will provide a forum where all voices can be heard, and governance that ensures that the will of the whole shall be executed.  We will allow anyone to associate or disassociate freely while we collectively build tools for everyone to use.  The mantra of our organization shall be this unrelenting quest: Decentralization Together.
 
