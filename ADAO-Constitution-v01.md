@@ -33,7 +33,7 @@ ADAO is not intended to be, and shall not be deemed to be, a partnership.
 Members shall fall into one or more of the following categories:
 1.	GovToken Holders are individuals who hold the ADAO Governance Token (ADAO).  GovToken Holders are responsible for deciding the priorities of the DAO through the proposal process.  No assets may be moved out of the DAO treasury without a vote of GovToken Holders and all program coordination is formalized through votes on proposals.
 2.	Active Contributors are community volunteers who dedicate their time to DAO projects or working groups.  Individuals who contribute can claim bounties from the DAO treasury and use any GovTokens they receive to vote on what projects the DAO should work on next.
-3.	Community Associates are any member of the Cardano community who chooses to associate with ADAO.  Even if an individual does not yet hold any GovTokens they can engage in legitimate peripheral participation by engaging in community discussions to help guide DAO efforts
+3.	Community Associates are any member of the Cardano community who chooses to associate with ADAO.  Even if an individual does not yet hold any GovTokens they can engage in legitimate peripheral participation by engaging in community discussions to help guide DAO efforts.
 
 **Section 2.3 - Rights.** ADAO Members shall utilize the “Designated Smart Contract” (a smart contract deployed to the Cardano Blockchain at the Designated Blockchain Address as the exclusive method of holding, allocating among the ADAO Members, and spending, or otherwise distributing any Tokens that are ADAO property, of minting and issuing GovTokens and holding and recording votes of the ADAO Members. ADAO may also utilize the Designated Smart Contract to administer and facilitate certain other arrangements and transactions involving ADAO, the ADAO Members and/or third parties. 
 
@@ -63,7 +63,7 @@ A member may be expelled by ADAO through the Member Removal procedure establishe
 
 # Article III - Meetings of Members
 
-**Section 3.1 - Meetings.** Meetings of members shall be described on a basis at the discretion of its membership on the ADAO Discord Server. Typically, governance meetings are set on weekly cadence through internet chat which is where parties agree to conduct such other business as may properly come before the meeting. 
+**Section 3.1 - Meetings.** Meetings of members shall be described on a basis at the discretion of its membership on the ADAO Discord Server. Typically, governance meetings are set on weekly cadence through internet chat which is where parties agree to conduct such other business as may properly come before the meeting. The purpose of meetings will be for ADAO members to discuss governance proposals that may be voted upon and other DAO business as may be appropriate.
 
 **Section 3.2 - Special meetings.** Special meetings of members may be called by a designated advisory group (the “ADAO Core Contributors”). The ADAO Core Contributors group is not required and may be created or disbanded according to the will of the ADAO members. Creation and Designation of the ADAO Core Contributors will be approved via the Designated Smart Contract.  Core Contributors shall retain their status until such time that it expires, is revoked, or they resign from the role.
 
@@ -73,7 +73,7 @@ A member may be expelled by ADAO through the Member Removal procedure establishe
 
 **Section 3.5 - Quorum.** The ADAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of ADAO. All actions using a software agent, (e.g. Cardano script), Treasury, membership and voting are governed by the Designated Smart Contract. 
 
-**Section 3.6 - Voting.** All voting will be performed on chain according to the mechanisms established by the Designated Smart Contract and any Ancillary Smart Contracts that may be established by the Designated Smart Contract.  Records of votes shall be recorded on the Designated Blockchain.  Any vote, poll, or call for consensus that is taken in the ADAO Discord Server, ADAO social media accounts, or any other place shall be considered non-binding and advisory in nature.
+**Section 3.6 - Voting.** All voting will be performed on the Designated Blockchain according to the mechanisms established by the Designated Smart Contract and any Ancillary Smart Contracts that may be established by the Designated Smart Contract.  Records of votes shall be recorded on the Designated Blockchain.  Any vote, poll, or call for consensus that is taken in the ADAO Discord Server, ADAO social media accounts, or any other place shall be considered non-binding and advisory in nature.
 
  # Article IV - Decentralized Governance
 
