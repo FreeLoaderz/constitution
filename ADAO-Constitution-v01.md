@@ -26,7 +26,7 @@ ADAO is not intended to be, and shall not be deemed to be, a partnership.
 
 # Article II - Membership
 
-**Section 2.1 - Eligibility** Membership shall be voluntary and application open to any individual of at least 18 years of age whose purpose or presumed intent is to contribute, to build, and to use the services of ADAO and is willing to accept the responsibilities and terms of membership. 
+**Section 2.1 - Eligibility.** Membership shall be voluntary and application open to any individual of at least 18 years of age whose purpose or presumed intent is to contribute, to build, and to use the services of ADAO and is willing to accept the responsibilities and terms of membership. 
 
 **Section 2.2 - Admission.** Membership in ADAO shall be granted to all members off the Cardano community. This is anyone who holds at least one (1) ADA token in a Cardano wallet with stake delegated to a stake pool operator.  There shall be no requirement to contribute time to ADAO projects or assets to the ADAO Treasury.
 
