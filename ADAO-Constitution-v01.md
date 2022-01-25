@@ -16,7 +16,7 @@ ADAO is not intended to be, and shall not be deemed to be, a partnership.
 
 **Section 1.2 - Purposes.** As more fully stated in its Mission Statement (as may be updated from time to time via governance) ADAO is organized for the following purposes:  To share knowledge about what DAOs are and how to use them effectively. To develop tools for decentralized coordination and DAO governance on the blockchain. To offer technical, organizational, and financial support in designing and developing DAOs. 
 
-**Section 1.3 - Not an Investment Company.** ADAO is not organized to provide financial services, advice, or investment opportunities. All the content developed by ADAO, with the exception of identifying materials, shall be placed in the public domain or under an open license depending upon the proper circumstances of the product.  ADAO projects and products should not be considered investments and no promises are made that they will hold any monetary value.  
+**Section 1.3 - Not an Investment Company.** ADAO is not organized to provide financial services, advice, or investment opportunities. All the content developed by ADAO, with the exception of identifying materials, shall be placed in the public domain or under an open license depending upon the proper circumstances of the product.  ADAO projects and products should not be considered investments and no promises are made that they will hold any monetary value or provide any returns.  
 
 **Section 1.4 - Cooperative principles.** ADAO shall be operated in the spirit of cooperative principles framed by the 1995 General Assembly of the International Co-operative Alliance, including: (i) voluntary and open membership; (ii) democratic member control through distributed ledger smart contract voting management; (iii) member economic participation; (iv) autonomy and independence of ADAO; (v) providing education, training and information; (vi) cooperation with other DAO cooperatives; and (vii) concern for community.
 
@@ -55,7 +55,7 @@ To the maximum extent permitted by applicable law, no ADAO Member shall be (or s
 
 **Section 2.8 - Settlement of disputes.** In any dispute between ADAO and any of its members or former members which cannot be resolved through informal negotiation, it shall be the policy of ADAO to prefer the use of mediation whereby an impartial mediator may facilitate negotiations between the parties and assist them in developing a mutually acceptable settlement. Neither party with a grievance against the other shall have recourse to litigation until the matter is submitted to mediation and attempted to be resolved in good faith. All ADAO Membership agree that there is a preference to settle disputes amongst members or between members and ADAO via decentralized dispute mechanisms via smart contract protocols. 
 
-**Section  2.9 - Transferability of Membership.** Membership rights and interests may be transferred by token exchange.
+**Section  2.9 - Transferability of Membership.** Membership rights and interests may be transferred by token exchange. A member may increase their voting power by obtaining more GovTokens but must meet all the regular requirements for membership in order to excercise these rights.
 
 **Section 2.10 - Withdrawal and Expulsion.** A member may withdraw at any time by divesting themselves of all ADAO Tokens and publicly declaring, through a Cardano Transaction Comment made by their wallet, that they are formally disassociating.  
 
@@ -82,7 +82,6 @@ A member may be expelled by ADAO through the Member Removal procedure establishe
 # Article V - Governance Shares and Capital Shares
 
 **Section 5.1 - Issuance and terms.** It is noted that different Designated Smart Contracts have different manners of managing governance shares (“GovToken”) versus contributed capital and efforts resulting in retains to ADAO (“Treasury Shares”). Currently, ADAO members have no rights of redemption of any working capital, or token assets, held within ADAO. No redemption may be offered without revision to the Designated Smart Contract and an amendment to this Constitution. 
-XXXXXXX DO WE NEED TO INCLUDE LANGUAGE THAT SAYS THE DESIGNATED SMART CONTRACT IS ALLOWED TO BUY BACK ADAO TOKENS IN EXCHANGE FOR ASSETS IN THE TREASURY IF WE WISH? XXXXXXX
 
 It is not anticipated that ADAO will ever turn a “profit” as excess capital will be paid out via charitable donations, grants, or other forms of support meant to carry out the Mission Statement. 
 
@@ -94,19 +93,9 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
 
 **Section 6.3 - Member Management Procedures.** All ADAO Members agree to act in accordance with the standards of professional conduct outlined in the Handbook and posted in the Discord server agreement. In order to uphold these standards ADAO Core Contributors shall appoint ADAO account moderators who will be empowered to ban accounts from the Discord Server and block accounts on social media platforms.  While banned or blocked, GovToken Holders are still eligible to vote on proposals through the Designated Smart Contract.  If an individual wishes to have a banned or blocked account reinstated to good standing with ADAO they may appeal to the moderator(s) who banned them or submit a proposal to the Designated Smart Contract asking the ADAO Membership to override the ban.
 
-# Article VII - Patronage Dividends. XXXXXX DO WE NEED THIS SECTION? XXXXXX
+# Article VII - Patronage Dividends.
 
-**Section 7.1 - Distribution obligation.** The realized net earnings of LexDAO attributable to the patronage of members through contributions and voting shall be allocated and distributed among members in proportion to their patronage and in such a manner and at such a time as to constitute patronage dividends within the meaning of federal income tax law. Unless otherwise required under federal tax law all of the operations of the LexDAO shall be netted into a single allocation unit.
-
-**Section 7.2 - Reductions.** Any distributable net earnings of such a nominal amount as not to justify the expenses of distribution may, as determined by the LexDAO Advisory Group pr LDC Members, be excluded from distribution. Net earnings may be reduced by such reasonable reserves for necessary business purposes as is determined by the LexDAO Advisory Group or LDC Members. A patronage dividend to which members are entitled may be waived in whole or in part by vote of members.
-
-**Section 7.3 - Consent of members.** By obtaining or retaining membership in LexDAO, each member shall there by consent to take into account, in the manner and to the extent required by Section 1385 of the Internal Revenue Code, the stated dollar amount of any qualified written notice of allocation in the taxable year in which such notice is received.
-
-**Section 7.4 - Deferred amounts.** Payment of patronage dividends may be deferred for the reasonable capital needs of LexDAO, as determined by LDC Members. Such amounts shall accrue no dividend or other monetary return on capital. Deferred patronage dividends may be redeemed when determined by LDC Members to be no longer needed for capital purposes. 
-
-**Section 7.5 - Net losses.** No portion of a net operating loss realized by the Cooperative shall be allocated to members. The patronage portion of such losses shall be carried forward to offset patronage-sourced income of subsequent years. The non patronage portion of such losses shall be carried back and forward to offset non patronage-sourced income of prior and subsequent years as required or permitted under federal income tax law. As a nonprofit unincorporated association, it is not anticipated there will be tax returns or profits.
-
-**Section 7.6 - Failure to Claim or Redeem.** The patronage dividend distributed to any member, by any means, including as cash, as a voucher, or by digital asset may be used for the purchase of LexDAO items and services, or donated to LexDAO. The portion of a patronage dividend distributed to any member that is not claimed, used, redeemed or donated within 90 days of issuance date, or by the next June 30th from issuance date, whichever is later, shall potentially revert to LexDAO as a donation without further notice to the member. Such portions of patronage dividends that are donated or that revert to LexDAO as provided in this subsection shall be distributed and allocated to a tax-exempt charity or grant as the LDC Members may determine.
+**Section 7.1 - No Patronage Dividents.** There will be no patronage dividends offered for members of ADAO. Assets will be distributed from the Treasury only for the purpose of funding bounties, which are 1) Grants of GovTokens offered to contributors who do work furthering the mission of the organization, or 2) Payments for services rendered by persons hired by the organization.
 
 # Article VIII - Fiscal and Miscellaneous Matters
 
