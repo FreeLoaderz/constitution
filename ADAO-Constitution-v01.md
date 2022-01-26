@@ -73,6 +73,8 @@ A member may be expelled by ADAO through the Member Removal procedure establishe
 
 The ADAO Core Contributors group is not required and may be created or disbanded according to the will of the ADAO members. Creation and Designation of the ADAO Core Contributors will be approved via the Designated Smart Contract.  Core Contributors shall retain their status until such time that it expires, is revoked, or they resign from the role.
 
+**Section 3.4 - Working Groups.** Working Groups shall be small units of Active Contributors and may have one or more Core Contributors designated as the group lead. The purpose of these groups shall be to ensure the operation of the DAO and organize efforts on projects that further the mission of the DAO.
+
 # Article IV - Meetings of Members
  
 **Section 4.1 - Meetings.** Meetings of members shall be described on a basis at the discretion of its membership on the ADAO Discord Server. Typically, meetings are set on weekly cadence through internet chat which is where parties agree to conduct such business as may properly come before the meeting. The purpose of meetings will be for ADAO members to discuss governance proposals that may be voted upon and other DAO business as may be appropriate.
