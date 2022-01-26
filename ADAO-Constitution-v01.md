@@ -10,7 +10,7 @@ We seek to operate our organization according to the principles made manifest in
 
 # Article I - Organization
 
-**Section 1.1 - Status.**  ADAO Community Association (referred to in this agreement as “ADAO”) is an unincorporated nonprofit decentralized autonomous organization operating on the Cardano blockchain platorm.
+**Section 1.1 - Status.**  ADAO Community Association (referred to in this agreement as “ADAO”) is an unincorporated nonprofit decentralized autonomous organization operating on the Cardano blockchain platform.
 
 ADAO is not intended to be, and shall not be deemed to be, a partnership. 
 
