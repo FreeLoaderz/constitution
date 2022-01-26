@@ -111,7 +111,7 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
 
 **Section 8.1 - Fiscal year.** The fiscal year of ADAO shall be the calendar year beginning January 1st and Ending December 31st.
 
-**Section 8.2 - Indemnification.** ADAO shall indemnify its directors, officers, employees, or agents as required under Wyoming law, and may indemnify such persons as permitted under Wyoming law. Indemnification payments shall be made on a priority basis but only in such increments and at such times as will not jeopardize the ability of ADAO to pay its other obligations as they become due. 
+**Section 8.2 - Indemnification.** ADAO shall indemnify its managers, officers, employees, to the fullest extent possible, and may indemnify such persons as deemed necessary. Indemnification payments shall be made on a priority basis but only in such increments and at such times as will not jeopardize the ability of ADAO to pay its other obligations as they become due. 
 
 **Section 8.3 - Communication by electronic means.** Unless otherwise required by law or by agreement, any notice, vote, consent, petition, or other oral or written communication required or permitted can be delivered by electronic means, provided that, in the case where such communication expressly or impliedly requires the signature of the person submitting the communication, means are in place to reasonably assure the authenticity of the signature.
 
