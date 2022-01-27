@@ -10,11 +10,11 @@ We seek to operate our organization according to the principles made manifest in
 
 # Article I - Organization
 
-**Section 1.1 - Status.**  ADAO Community Association (referred to in this agreement as “ADAO”) is an unincorporated nonprofit association under Wyo. Stat. Title 17, Ch. 22 of the laws of the State of Wyoming.
+**Section 1.1 - Status.**  ADAO Community Association (referred to in this agreement as “ADAO”) is an unincorporated nonprofit decentralized autonomous organization operating on the Cardano blockchain platform.
 
 ADAO is not intended to be, and shall not be deemed to be, a partnership. 
 
-**Section 1.2 - Purposes.** As more fully stated in its Mission Statement (as may be updated from time to time via governance) ADAO is organized for the following purposes:  To share knowledge about what DAOs are and how to use them effectively. To develop tools for decentralized coordination and DAO governance on the blockchain. To offer technical, organizational, and financial support in designing and developing DAOs. 
+**Section 1.2 - Purposes.** As more fully stated in its Mission Statement (as may be updated from time to time via governance) ADAO is organized for the following purposes:  To share knowledge about what DAOs are and how to use them effectively. To develop tools for decentralized coordination and DAO governance on the blockchain. To offer educational, technical, organizational, and financial support in designing decentralized governance and developing DAOs. 
 
 **Section 1.3 - Not an Investment Company.** ADAO is not organized to provide financial services, advice, or investment opportunities. All the content developed by ADAO, with the exception of identifying materials, shall be placed in the public domain or under an open license depending upon the proper circumstances of the product.  ADAO projects and products should not be considered investments and no promises are made that they will hold any monetary value or provide any returns.  
 
@@ -24,11 +24,13 @@ ADAO is not intended to be, and shall not be deemed to be, a partnership.
 
 **Section 1.6 - Decentralized Autonomous Organization (DAO).** ADAO is a DAO, an unincorporated association of individuals, entities, associations and/or other persons or groups of persons who all agree to join together in a common purpose. For ADAO that purpose is encapsulated in our Mission Statement.
 
+**Section 1.7 - Term and Continuation of DAO.** ADAO will continue perpetually so long as Members vote to continue the activities of the organization. Should the members ever deem it necessary to cease operation of the DAO they shall transfer the Treasury to Trustee(s) who shall distribute the assets to charitable organizations in line with the ethos and Mission Statement of ADAO.
+
 # Article II - Membership
 
-**Section 2.1 - Eligibility.** Membership shall be voluntary and application open to any individual of at least 18 years of age whose purpose or presumed intent is to contribute, to build, and to use the services of ADAO and is willing to accept the responsibilities and terms of membership. 
+**Section 2.1 - Eligibility.** Membership shall be voluntary and application open to any individual whose purpose or presumed intent is to contribute, to build, and to use the services of ADAO and is willing to accept the responsibilities and terms of membership. 
 
-**Section 2.2 - Admission.** Membership in ADAO shall be granted to all members off the Cardano community. This is anyone who holds at least one (1) ADA token in a Cardano wallet with stake delegated to a stake pool operator.  There shall be no requirement to contribute time to ADAO projects or assets to the ADAO Treasury.
+**Section 2.2 - Admission.** Membership in ADAO shall be granted to all members of the Cardano community who are willing to uphold the ADAO Mission Statement and ratify the Constitution. A member of the Cardano community is anyone who possess a Cardano wallet with stake delegated to an active stake pool.  There shall be no requirement to contribute time to ADAO projects or assets to the ADAO Treasury.
 
 Members shall fall into one or more of the following categories:
 1.	GovToken Holders are individuals who hold the ADAO Governance Token (ADAO).  GovToken Holders are responsible for deciding the priorities of the DAO through the proposal process.  No assets may be moved out of the DAO treasury without a vote of GovToken Holders and all program coordination is formalized through votes on proposals.
@@ -51,7 +53,7 @@ To the maximum extent permitted by applicable law, no ADAO Member shall be (or s
 
 **Section 2.6 - Inactive status.** A member who falls from good standing may have their membership revoked or suspended through the vote of ADAO Membership (each said action, a “Member Removal”). References herein to the rights and entitlements of members shall be understood to refer only to members in good standing. 
 
-**Section 2.7 - Access to information.** Members shall have access to information concerning the operational and financial affairs of via the Treasury application of the organization. Currently the ADAO treasury can be viewed via Designated Smart Contract. 
+**Section 2.7 - Access to information.** Members shall have access to information concerning the operational and financial affairs of via the Treasury application of the organization. The ADAO treasury can always be viewed by exploring the Designated Smart Contract. 
 
 **Section 2.8 - Settlement of disputes.** In any dispute between ADAO and any of its members or former members which cannot be resolved through informal negotiation, it shall be the policy of ADAO to prefer the use of mediation whereby an impartial mediator may facilitate negotiations between the parties and assist them in developing a mutually acceptable settlement. Neither party with a grievance against the other shall have recourse to litigation until the matter is submitted to mediation and attempted to be resolved in good faith. All ADAO Membership agree that there is a preference to settle disputes amongst members or between members and ADAO via decentralized dispute mechanisms via smart contract protocols. 
 
@@ -59,29 +61,35 @@ To the maximum extent permitted by applicable law, no ADAO Member shall be (or s
 
 **Section 2.10 - Withdrawal and Expulsion.** A member may withdraw at any time by divesting themselves of all ADAO Tokens and publicly declaring, through a Cardano Transaction Comment made by their wallet, that they are formally disassociating.  
 
-A member may be expelled by ADAO through the Member Removal procedure established in section 2.6 of this document and adopted by the membership. Upon termination of membership, all rights and interests in ADAO shall cease except for rights to redemption of capital pursuant to Article V below (if any). 
+A member may be expelled by ADAO through the Member Removal procedure established in section 2.6 of this document and adopted by the membership. Upon termination of membership, all rights and interests in ADAO shall cease. 
 
-# Article III - Meetings of Members
+# Article III - Decentralized Governance
 
-**Section 3.1 - Meetings.** Meetings of members shall be described on a basis at the discretion of its membership on the ADAO Discord Server. Typically, governance meetings are set on weekly cadence through internet chat which is where parties agree to conduct such other business as may properly come before the meeting. The purpose of meetings will be for ADAO members to discuss governance proposals that may be voted upon and other DAO business as may be appropriate.
+**Section 3.1 - Powers and duties.** Except as to matters reserved to members by this constitution, all ADAO powers shall be exercised by or under the authority of GovToken Holders or such agents or designees approved by GovToken Holders through Designated Smart Contract voting. 
 
-**Section 3.2 - Special meetings.** Special meetings of members may be called by a designated advisory group (the “ADAO Core Contributors”). The ADAO Core Contributors group is not required and may be created or disbanded according to the will of the ADAO members. Creation and Designation of the ADAO Core Contributors will be approved via the Designated Smart Contract.  Core Contributors shall retain their status until such time that it expires, is revoked, or they resign from the role.
+**Section 3.2 - Voting.** All voting of ADAO Members will be performed on the Designated Blockchain according to the mechanisms established by the Designated Smart Contract and any Ancillary Smart Contracts that may be established by the Designated Smart Contract.  Records of votes shall be recorded on the Designated Blockchain.  Any vote, poll, or call for consensus that is taken in the Designated Communication Platform, ADAO social media accounts, or any other place shall be considered non-binding and advisory in nature until a formal vote is held.
 
-**Section 3.3 -Time and place.** The date, time and place of all meetings of the ADAO Core Contributors shall be determined by the ADAO Core Contributors group or, in the event that the ADAO Core Contributors group fails to act, by a call for vote via the GovToken Holders. 
+**Section 3.3 - Core Contributors.** The Core Contributors shall be an advisory group made up of individuals selected from the Active Participants of ADAO. Core Contributors will be responsible for managing the administrative operations of ADAO, overseeing the social media and communication channels, and organizing meetings of ADAO members.  Core contributors may also be responsible for leading the Working Groups of ADAO and serve as multi-sig trustees of any Ancillary Contracts established by the Designated Smart Contract.
 
-**Section 3.4 - Notice.** The membership is responsible for monitoring votes of concern on the Designated Smart Contract. Notice of votes can be set up by GovToken Holders via the Designated Smart Contract and when votes are triggered in the ADAO Discord Server. Notices of meetings shall also be posted on ADAO’s official social media and the ADAO Discord Server including the member information roster, but the inadvertent failure to do so shall not affect the validity of the meeting. Any business conducted at a meeting of members other than that specified in the notice of the meeting shall be of an advisory nature only. 
+The ADAO Core Contributors group is not required and may be created or disbanded according to the will of the ADAO members. Creation and Designation of the ADAO Core Contributors will be approved via the Designated Smart Contract and individuals in this role will have their identity recorded in the metadata of a Non-Fungible Token minted on the Designated Blockchain and placed in the ADAO Treasury. Core Contributors shall retain their status until such time that it expires, is revoked, or they resign from the role.
 
-**Section 3.5 - Quorum.** The ADAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of ADAO. All actions using a software agent, (e.g. Cardano script), Treasury, membership and voting are governed by the Designated Smart Contract. 
+**Section 3.4 - Working Groups.** Working Groups shall be small units of Active Contributors and may have one or more Core Contributors designated as the group lead. The purpose of these groups shall be to ensure the operation of the DAO and organize efforts on projects that further the mission of the DAO.
 
-**Section 3.6 - Voting.** All voting will be performed on the Designated Blockchain according to the mechanisms established by the Designated Smart Contract and any Ancillary Smart Contracts that may be established by the Designated Smart Contract.  Records of votes shall be recorded on the Designated Blockchain.  Any vote, poll, or call for consensus that is taken in the ADAO Discord Server, ADAO social media accounts, or any other place shall be considered non-binding and advisory in nature.
+# Article IV - Meetings of Members
+ 
+**Section 4.1 - Meetings.** Meetings of members shall be described on a basis at the discretion of its membership on the Designated Communication Platform. Typically, meetings are set on weekly cadence through internet chat which is where parties agree to conduct such business as may properly come before the meeting. The purpose of meetings will be for ADAO members to discuss governance proposals that may be voted upon and other DAO business as may be appropriate.
 
- # Article IV - Decentralized Governance
+**Section 4.2 - Special meetings.** Special meetings of members may be called by the ADAO Core Contributors as needed.
 
-**Section 4.1 - Powers and duties.** Except as to matters reserved to members by law or by this constitution, all ADAO powers shall be exercised by or under the authority of GovToken Holders or such agents or designees approved by GovToken Holders through Designated Smart Contract voting. 
+**Section 4.3 -Time and place.** The date, time and place of all meetings of the ADAO Core Contributors shall be determined by the ADAO Core Contributors group or, in the event that the ADAO Core Contributors group fails to act, by a call for vote via the GovToken Holders. 
+
+**Section 4.4 - Notice.** The membership is responsible for monitoring votes of concern on the Designated Smart Contract. Notice of votes can be set up by GovToken Holders via the Designated Smart Contract and when votes are triggered in the Designated Communication Platform. Notices of meetings shall also be posted on ADAO’s official social media and the Designated Communication Platform including the member information roster, but the inadvertent failure to do so shall not affect the validity of the meeting. Any business conducted at a meeting of members other than that specified in the notice of the meeting shall be of an advisory nature only. 
+
+**Section 4.5 - Quorum.** The ADAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of ADAO. All actions using a software agent, (e.g. Cardano script), Treasury, membership and voting are governed by the Designated Smart Contract. 
 
 # Article V - Governance Shares and Capital Shares
 
-**Section 5.1 - Issuance and terms.** It is noted that different Designated Smart Contracts have different manners of managing governance shares (“GovToken”) versus contributed capital and efforts resulting in retains to ADAO (“Treasury Shares”). Currently, ADAO members have no rights of redemption of any working capital, or token assets, held within ADAO. No redemption may be offered without revision to the Designated Smart Contract and an amendment to this Constitution. 
+**Section 5.1 - Issuance and terms.** It is noted that different Designated Smart Contracts have different manners of managing governance shares (“GovToken”) versus contributed capital and efforts resulting in retains to ADAO (“Treasury Shares”). ADAO members have no rights of redemption of any working capital, or token assets, held within ADAO. No redemption may be offered without revision to the Designated Smart Contract and an amendment to this Constitution. 
 
 It is not anticipated that ADAO will ever turn a “profit” as excess capital will be paid out via charitable donations, grants, or other forms of support meant to carry out the Mission Statement. 
 
@@ -91,20 +99,23 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
 
 **Section 6.2 - Material Adverse Exception Event.** Notwithstanding anything to the contrary set forth in Section 4, if there is a Material Adverse Exception Event, then the rules and procedures set forth in this clause shall determine the rights and obligations of the GovToken Holders relating to the ADAO property.
 
-**Section 6.3 - Member Management Procedures.** All ADAO Members agree to act in accordance with the standards of professional conduct outlined in the Handbook and posted in the Discord server agreement. In order to uphold these standards ADAO Core Contributors shall appoint ADAO account moderators who will be empowered to ban accounts from the Discord Server and block accounts on social media platforms.  While banned or blocked, GovToken Holders are still eligible to vote on proposals through the Designated Smart Contract.  If an individual wishes to have a banned or blocked account reinstated to good standing with ADAO they may appeal to the moderator(s) who banned them or submit a proposal to the Designated Smart Contract asking the ADAO Membership to override the ban.
+**Section 6.3 - Member Management Procedures.** All ADAO Members agree to act in accordance with the standards of professional conduct outlined in the Handbook and posted in the Designated Communication Platform. In order to uphold these standards ADAO Core Contributors shall appoint ADAO account moderators who will be empowered to ban accounts from the Designated Communication Platform and block accounts on social media platforms.  While banned or blocked, GovToken Holders are still eligible to vote on proposals through the Designated Smart Contract.  If an individual wishes to have a banned or blocked account reinstated to good standing with ADAO they may appeal to the moderator(s) who banned them or submit a proposal to the Designated Smart Contract asking the ADAO Membership to override the ban.
 
-# Article VII - Patronage Dividends.
+# Article VII - Fiscal Matters
 
-**Section 7.1 - No Patronage Dividends.** There will be no patronage dividends offered for members of ADAO. Assets will be distributed from the Treasury only for the purpose of funding bounties, which are 1) Grants of GovTokens offered to contributors who do work furthering the mission of the organization, or 2) Payments for services rendered by persons hired by the organization.
+**Section 7.1 - No Patronage Dividends.** There will be no patronage dividends offered for members of ADAO. Assets will be distributed from the Treasury only for the purpose of funding bounties, which are 1) Grants of tokens offered to contributors who do work furthering the mission of the organization, 2) Funding for Ancillary Contracts that shall support work furthering the mission of the organization, or 3) Payments for services rendered by persons designated by the organization.
 
-# Article VIII - Fiscal and Miscellaneous Matters
+**Section 7.2 - Fiscal year.** The fiscal year of ADAO shall be the calendar year beginning January 1st and Ending December 31st.
 
-**Section 8.1 - Fiscal year.** The fiscal year of ADAO shall be the calendar year beginning January 1st and Ending December 31st.
+# Article VIII - Legal Matters
 
-**Section 8.2 - Indemnification.** ADAO shall indemnify its directors, officers, employees, or agents as required under Wyoming law, and may indemnify such persons as permitted under Wyoming law. Indemnification payments shall be made on a priority basis but only in such increments and at such times as will not jeopardize the ability of ADAO to pay its other obligations as they become due. 
+**Section 8.1 - Legal Representatives.** ADAO shall designate individuals to serve as legal representatives of the organization. These individuals shall form a Non-profit Foundation (the "ADAO Foundation") in a physical legal jurisdiction in order to safeguard the interests of the organization and shall have the power to sign and bind for the DAO insofar as their actions are approved by DAO governance.  Legal representatives of the DAO shall have their identity recorded in the metadata of a Non-Fungible Token minted on the Designated Blockchain and placed in the ADAO Treasury.
 
-**Section 8.3 - Communication by electronic means.** Unless otherwise required by law or by agreement, any notice, vote, consent, petition, or other oral or written communication required or permitted can be delivered by electronic means, provided that, in the case where such communication expressly or impliedly requires the signature of the person submitting the communication, means are in place to reasonably assure the authenticity of the signature.
+**Section 8.2 - ADAO Foundation.** The ADAO Foundation shall be governed by a Board of Directors appointed by ADAO governance procedure.  The foundation shall Hold the intellectual DAO’s interests, property rights, and enforce any such related legal rights.
 
+**Section 8.3 - Indemnification.** The ADAO Foundation shall indemnify, defend and hold harmless its managers, officers, employees, ADAO, and ADAO members from and against any and all loss, costs, penalties, fines, damages, claims, expenses (including attorney’s fees) or liabilities to the fullest extent possible, arising out of, resulting from, or in connection with the purpose of the ADAO Foundation, to the fullest extent of the law, and may further indemnify such persons as deemed necessary. Indemnification payments shall be made on a priority basis but only in such increments and at such times as will not jeopardize the ability of ADAO Foundation to pay its other obligations as they become due. 
+
+**Section 8.4 - Communication by electronic means.** Unless otherwise required by law or by agreement, any notice, vote, consent, petition, or other oral or written communication required or permitted can be delivered by electronic means, provided that, in the case where such communication expressly or impliedly requires the signature of the person submitting the communication, means are in place to reasonably assure the authenticity of the signature.
 
 # Article IX - Interpretation and Amendment of Constitution
 
@@ -130,27 +141,31 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
 
 (g) **“ADAO Property"** means any Token or other asset, right or property licensed to or on deposit with or owned, held, custodied, controlled or possessed by or on behalf of ADAO, including any Token on deposit with or held, controlled, possessed by or on deposit with the Designated Smart Contract.
 
-(h) **“Designated Blockchain”** means at any given time, the version of the digital blockchain ledger that at least a majority of nodes running the Designated Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules.
+(h) **"Designated Communication Platform"** means the Discord server, chat room, or other such communication platform that shall be deemed the primary online venue for ADAO Members to gather. The online address of this platform shall recorded in the metadata of a Non-Fungible Token minted on the Designated Blockchain and placed in the ADAO Treasury.
 
-(i) **“Designated Blockchain Network”** means the Cardano mainnet as recognized by the Designated Client.
+(i) **“Designated Blockchain”** means at any given time, the version of the digital blockchain ledger that at least a majority of nodes running the Designated Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules.
 
-(j) **“Designated Client”** means the Daedalus client available at https://github.com/input-output-hk/daedalus
+(j) **“Designated Blockchain Network”** means the Cardano mainnet as recognized by the Designated Client.
 
-(k) **“Designated Smart Contract”** means the smart contract holding the ADAO Identity Token on the Designated Blockchain.
+(k) **“Designated Client”** means the Daedalus client available at https://github.com/input-output-hk/daedalus
 
 (l) **“ADAO Identity Token”** means the Non-Fungible Token on the Cardano Blockchain with Token Identifier 2f1ca92cbb53b23e214393fa230a25da97bbcc9e55d76e211a4deccf.4144414f.
 
-(m) **“Distributed ADAO Property”** means any asset, right or property that was once ADAO Property and has been distributed to a DAO Member.
+(m) **“Designated Smart Contract”** means the smart contract holding the ADAO Identity Token on the Designated Blockchain.
 
-(n) **“Legal Order”** means any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.
+(n) **“Ancillary Smart Contract”** means any smart contract that is produced by the Designated Smart Contract for the purpose of DAO operations.
 
-(o) **“Legal Proceeding”** means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel.
+(o) **“Distributed ADAO Property”** means any asset, right or property that was once ADAO Property and has been distributed to a DAO Member.
 
-(p) **“Liability”** means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable. To be “Liable” means to have, suffer, incur, be obligated for or be subject to a Liability.
+(p) **“Legal Order”** means any restraining order, preliminary or permanent injunction, stay or other order, writ, injunction, judgment or decree that either: (i) is issued by a court of competent jurisdiction, or (ii) arises by operation of applicable law as if issued by a court of competent jurisdiction, including, in the case of clause “(ii)” an automatic stay imposed by applicable law upon the filing of a petition for bankruptcy.
 
-(q) **“Lien”** means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset.
+(q) **“Legal Proceeding”** means any private or governmental action, suit, litigation, arbitration, claim, proceeding (including any civil, criminal, administrative, investigative or appellate proceeding), hearing, inquiry, audit, examination or investigation commenced, brought, conducted or heard by or before, or otherwise involving, any court or other governmental entity or any arbitrator or arbitration panel.
 
-(r) **“Material Adverse Exception Event”** means that one or more of the following has occurred, is occurring or would reasonably be expected to occur:
+(r) **“Liability”** means any debt, obligation, duty or liability of any nature (including any unknown, undisclosed, unmatured, unaccrued, unasserted, contingent, indirect, conditional, implied, vicarious, inchoate derivative, joint, several or secondary liability), regardless of whether such debt, obligation, duty or liability would be required to be disclosed on a balance sheet prepared in accordance with generally accepted accounting principles and regardless of whether such debt, obligation, duty or liability is immediately due and payable. To be “Liable” means to have, suffer, incur, be obligated for or be subject to a Liability.
+
+(s) **“Lien”** means any lien, pledge, hypothecation, charge, mortgage, security interest, encumbrance, other possessory interest, conditional sale or other title retention agreement, intangible property right, claim, infringement, option, right of first refusal, preemptive right, exclusive license of intellectual property, community property interest or restriction of any nature including any restriction on the voting of any security or restriction on the transfer, use or ownership of any security or other asset.
+
+(t) **“Material Adverse Exception Event”** means that one or more of the following has occurred, is occurring or would reasonably be expected to occur:
 - (i) a Consensus Attack adversely affecting the results or operations of the Designated Smart Contract;
 - (ii) the Designated Smart Contract having become inoperable, inaccessible or unusable, including as the result of any code library or repository incorporated by reference into the Designated Smart Contract or any other smart contract or oracle on which the Designated Smart Contract depends having become inoperable, inaccessible or unusable or having itself suffered a Material Adverse Exception Event, mutatis mutandis;
 - (iii) a material and adverse effect on the use, functionality or performance of the Designated Smart Contract as the result of any bug, defect or error in the Designated Smart Contract or the triggering, use or exploitation (whether intentional or unintentional) thereof (it being understood that for purposes of this clause “(iii)”, a bug, defect or error will be deemed material only if it results in a loss to an ADAO Member or ADAO of at least 25 percent of such ADAO Member's distributable interest in ADAO Property and/or 15 percent of the ADAO Property);
@@ -162,4 +177,4 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
 - (ix) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that:(a) provides for the reassociation of the Designated Token with the Receiving Address; and (b) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and
 - (git x) such transaction has been Confirmed.
 
-(s) **"Member Removal"**  means removal from the membership via vote of GovToken Holders or other process as described in the Handbook. Unless specifically provided otherwise a member subject to Membership Removal shall not be entitled to any distribution or return of capital, funds, retains, etc.
+(u) **"Member Removal"**  means removal from the membership via vote of GovToken Holders or other process as described in the Handbook. Unless specifically provided otherwise a member subject to Membership Removal shall not be entitled to any distribution or return of capital, funds, retains, etc.
