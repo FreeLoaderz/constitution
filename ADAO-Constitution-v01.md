@@ -4,9 +4,9 @@
 
 # Preamble
 
-As users of the Cardano network, the members of ADAO come together to form this organization that will serve our community.  Our founders come from different nations, with different identities, and different walks of life.  But we are brought together in our hope that decentralized technologies will allow us to cooperate in a more honest and more perfect union.
+As users of the Cardano network, the members of ADAO come together to form this organization that will serve our community.  Our founders originate from around the world, with different identities and experiences. We are brought together in our hope that decentralized technologies will allow us to cooperate in a more honest and equitable union.
 
-We seek to operate our organization according to the principles made manifest in blockchain technologies.  Our knowledge shall be shared, and our actions shall be auditable.  Our motivations shall be transparent, and our records shall be immutable.  We will provide a forum where all voices can be heard, and governance that ensures that the will of the whole shall be executed.  We will allow anyone to associate or disassociate freely while we collectively build tools for everyone to use.  The mantra of our organization shall be this unrelenting quest: Decentralization Together.
+We seek to operate our organization according to the principles made manifest in blockchain technologies.  Our knowledge shall be shared, and our actions shall be auditable.  Our motivations shall be transparent, and our records shall be immutable.  We will provide a forum where all voices are heard, and governance that ensures that the will of the whole shall be executed.  Anyone may associate or disassociate freely while we collectively build tools for everyone to use.  The mantra of our organization shall be this one unrelenting quest: Decentralization Together.
 
 # Article I - Organization
 
@@ -14,11 +14,21 @@ We seek to operate our organization according to the principles made manifest in
 
 ADAO is not intended to be, and shall not be deemed to be, a partnership. 
 
-**Section 1.2 - Purposes.** As more fully stated in its Mission Statement (as may be updated from time to time via governance) ADAO is organized for the following purposes:  To share knowledge about what DAOs are and how to use them effectively. To develop tools for decentralized coordination and DAO governance on the blockchain. To offer educational, technical, organizational, and financial support in designing decentralized governance and developing DAOs. 
+**Section 1.2 - Purposes.** As more fully stated in its Mission Statement (as may be updated from time to time via governance) ADAO is organized for the following purposes:  
+- To share knowledge about what DAOs are and how to use them effectively. 
+- To develop tools for decentralized coordination and DAO governance on the blockchain. 
+- To offer educational, technical, organizational, and financial support in designing decentralized governance and developing DAOs. 
 
-**Section 1.3 - Not an Investment Company.** ADAO is not organized to provide financial services, advice, or investment opportunities. All the content developed by ADAO, with the exception of identifying materials, shall be placed in the public domain or under an open license depending upon the proper circumstances of the product.  ADAO projects and products should not be considered investments and no promises are made that they will hold any monetary value or provide any returns.  
+**Section 1.3 - Not an Investment Company.** ADAO is not organized to provide financial services, advice, or investment opportunities. All the content developed by ADAO, with the exception of identifying materials, shall be placed in the public domain or under an open license depending upon the proper circumstances of the product.  ADAO projects and products should not be considered investments and no promises are made that they will hold any monetary value or provide any monetary returns.  
 
-**Section 1.4 - Cooperative principles.** ADAO shall be operated in the spirit of cooperative principles framed by the 1995 General Assembly of the International Co-operative Alliance, including: (i) voluntary and open membership; (ii) democratic member control through distributed ledger smart contract voting management; (iii) member economic participation; (iv) autonomy and independence of ADAO; (v) providing education, training and information; (vi) cooperation with other DAO cooperatives; and (vii) concern for community.
+**Section 1.4 - Cooperative principles.** ADAO shall be operated in the spirit of cooperative principles framed by the 1995 General Assembly of the International Co-operative Alliance, including: 
+1. voluntary and open membership; 
+2. democratic member control through distributed ledger smart contract voting management;
+3. member economic participation;
+4. autonomy and independence of ADAO;
+5. providing education, training and information;
+6. cooperation with other DAO cooperatives; and 
+7. concern for community.
 
 **Section 1.5 - Nondiscrimination.** ADAO shall not arbitrarily discriminate on the basis of race, nationality, religion, age, gender, sexual orientation, disability, political affiliation, or otherwise.  
 
@@ -33,9 +43,9 @@ ADAO is not intended to be, and shall not be deemed to be, a partnership.
 **Section 2.2 - Admission.** Membership in ADAO shall be granted to all members of the Cardano community who are willing to uphold the ADAO Mission Statement and ratify the Constitution. A member of the Cardano community is anyone who possesses a Cardano wallet with stake delegated to an active stake pool.  There shall be no requirement to contribute time to ADAO projects or assets to the ADAO Treasury.
 
 Members shall fall into one or more of the following categories:
-1.	GovToken Holders are individuals who hold the ADAO Governance Token (ADAO).  GovToken Holders are responsible for deciding the priorities of the DAO through the proposal process.  No assets may be moved out of the DAO treasury without a vote of GovToken Holders and all program coordination is formalized through votes on proposals.
-2.	Active Contributors are community volunteers who dedicate their time to DAO projects or working groups.  Individuals who contribute can claim bounties from the DAO treasury and use any GovTokens they receive to vote on what projects the DAO should work on next.
-3.	Community Associates are any member of the Cardano community who chooses to associate with ADAO.  Even if an individual does not yet hold any GovTokens they can engage in legitimate peripheral participation by engaging in community discussions to help guide DAO efforts.
+- GovToken Holders are individuals who hold the ADAO Governance Token (ADAO).  GovToken Holders are responsible for deciding the priorities of the DAO through the proposal process.  No assets may be moved out of the DAO treasury without a vote of GovToken Holders and all program coordination is formalized through votes on proposals.
+- Active Contributors are community volunteers who dedicate their time to DAO projects or working groups.  Individuals who contribute can claim bounties from the DAO treasury and use any GovTokens they receive to vote on what projects the DAO should work on next.
+- Community Associates are any member of the Cardano community who chooses to associate with ADAO.  Even if an individual does not yet hold any GovTokens they can engage in legitimate peripheral participation by engaging in community discussions to help guide DAO efforts.
 
 **Section 2.3 - Rights.** ADAO Members shall utilize the “Designated Smart Contract” (a smart contract deployed to the Cardano Blockchain at the Designated Blockchain Address as the exclusive method of holding, allocating among the ADAO Members, and spending, or otherwise distributing any Tokens that are ADAO property, of minting and issuing GovTokens and holding and recording votes of the ADAO Members. ADAO may also utilize the Designated Smart Contract to administer and facilitate certain other arrangements and transactions involving ADAO, the ADAO Members and/or third parties. 
 
@@ -85,7 +95,7 @@ The ADAO Core Contributors group is not required and may be created or disbanded
 
 **Section 4.4 - Notice.** The membership is responsible for monitoring votes of concern on the Designated Smart Contract. Notice of votes can be set up by GovToken Holders via the Designated Smart Contract and when votes are triggered in the Designated Communication Platform. Notices of meetings shall also be posted on ADAO’s official social media and the Designated Communication Platform including the member information roster, but the inadvertent failure to do so shall not affect the validity of the meeting. Any business conducted at a meeting of members other than that specified in the notice of the meeting shall be of an advisory nature only. 
 
-**Section 4.5 - Quorum.** The ADAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of ADAO. All actions using a software agent, (e.g. Cardano script), Treasury, membership and voting are governed by the Designated Smart Contract. 
+**Section 4.5 - Quorum.** The ADAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of ADAO. All actions using a software agent (e.g. Cardano script), Treasury, membership and voting are governed by the Designated Smart Contract. 
 
 # Article V - Governance Shares and Capital Shares
 
@@ -103,7 +113,10 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
 
 # Article VII - Fiscal Matters
 
-**Section 7.1 - No Patronage Dividends.** There will be no patronage dividends offered for members of ADAO. Assets will be distributed from the Treasury only for the purpose of funding bounties, which are 1) Grants of tokens offered to contributors who do work furthering the mission of the organization, 2) Funding for Ancillary Contracts that shall support work furthering the mission of the organization, or 3) Payments for services rendered by persons designated by the organization.
+**Section 7.1 - No Patronage Dividends.** There will be no patronage dividends offered for members of ADAO. Assets will be distributed from the Treasury only for the purpose of funding bounties, which are 
+- Grants of tokens offered to contributors who do work furthering the mission of the organization, 
+- Funding for Ancillary Contracts that shall support work furthering the mission of the organization, or
+- Payments for services rendered by persons designated by the organization.
 
 **Section 7.2 - Fiscal year.** The fiscal year of ADAO shall be the calendar year beginning January 1st and Ending December 31st.
 
@@ -123,9 +136,9 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
  
 **Section 9.2 - Severability.** In the event that any provision of this Constitution is determined to be invalid or unenforceable under any statute or rule of law, then such provision shall be deemed inoperative to such extent and shall be deemed modified to conform with such statute or rule of law without affecting the validity or enforceability of any other provision of this Constitution.
 
-**Section 9.3 - Amendment.** This Constitution may be amended by presenting the redlined version of the amendments at a meeting of members, and adopted by a vote or merge request as prescribed in the Handbook. No adoption will be formal until a proposal is passed by a vote of GovToken Holders in the Designated Smart Contract.
+**Section 9.3 - Amendment.** This Constitution may be amended by presenting the redlined version of the amendments at a meeting of members and adopted by a vote or merge request as prescribed in the Handbook. No adoption will be formal until a proposal is passed by a vote of GovToken Holders in the Designated Smart Contract.
 
-# Article XI - Definitions
+# Article X - Definitions
 
 (a) **“Account Address”** means a public key address on the Designated Blockchain Network that is uniquely associated with a single private key, and at which no smart contract has been deployed.
 
@@ -141,7 +154,7 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
 
 (g) **“ADAO Property"** means any Token or other asset, right or property licensed to or on deposit with or owned, held, custodied, controlled or possessed by or on behalf of ADAO, including any Token on deposit with or held, controlled, possessed by or on deposit with the Designated Smart Contract.
 
-(h) **"Designated Communication Platform"** means the Discord server, chat room, or other such communication platform that shall be deemed the primary online venue for ADAO Members to gather. The online address of this platform shall recorded in the metadata of a Non-Fungible Token minted on the Designated Blockchain and placed in the ADAO Treasury.
+(h) **"Designated Communication Platform"** means the Discord server, chat room, or other such communication platform that shall be deemed the primary online venue for ADAO Members to gather. The online address of this platform shall be recorded in the metadata of a Non-Fungible Token minted on the Designated Blockchain and placed in the ADAO Treasury.
 
 (i) **“Designated Blockchain”** means at any given time, the version of the digital blockchain ledger that at least a majority of nodes running the Designated Client on the Designated Blockchain Network recognize as canonical as of such time in accordance with the Consensus Rules.
 
