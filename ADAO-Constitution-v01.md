@@ -4,7 +4,7 @@
 
 # Preamble
 
-As users of the Cardano network, the members of ADAO come together to form this organization that will serve our community.  Our founders originate from around the world, with different identities and experiences. We are brought together in our hope that decentralized technologies will allow us to cooperate in spirit of honesty and equality.
+As users of the Cardano network, the members of ADAO come together to form this organization that will serve our community.  Our founders originate from around the world, with different identities and experiences. We are brought together in our hope that decentralized technologies will allow us to cooperate in a renewed spirit of honesty and equality.
 
 We seek to operate our organization according to the principles made manifest in blockchain technologies.  Our knowledge shall be shared, and our actions shall be auditable.  Our motivations shall be transparent, and our records shall be immutable.  We will provide a forum where all voices are heard, and governance that ensures that the will of the whole shall be executed.  Anyone may associate or disassociate freely while we collectively build tools for everyone to use.  The mantra of our organization shall be this one unrelenting quest: Decentralization Together.
 
@@ -97,11 +97,17 @@ The ADAO Core Contributors group is not required and may be created or disbanded
 
 **Section 4.5 - Quorum.** The ADAO Handbook (“Handbook”) shall provide a written explanation of the voting mechanism and voting quorum requirements of ADAO. All actions using a software agent (e.g. Cardano script), Treasury, membership and voting are governed by the Designated Smart Contract. 
 
-# Article V - Governance Shares and Capital Shares
+# Article V - Partnerships
 
-**Section 5.1 - Issuance and terms.** It is noted that different Designated Smart Contracts have different manners of managing governance shares (“GovToken”) versus contributed capital and efforts resulting in retains to ADAO (“Treasury Shares”). ADAO members have no rights of redemption of any working capital, or token assets, held within ADAO. No redemption may be offered without revision to the Designated Smart Contract and an amendment to this Constitution. 
+**Section 5.1 - Purpsoe of Partnerships.** In order to further its mission ADAO may establish partnerships with other organizations in the Cardano network, other blockchain networks, or in the wider world. 
 
-It is not anticipated that ADAO will ever turn a “profit” as excess capital will be paid out via charitable donations, grants, or other forms of support meant to carry out the Mission Statement. 
+**Section 5.2 - Negotiating Partnerships.** The terms and condidtions of Partnerships shall be negotiated by the Core Members and other Active Participants who may be selected. In order to respect the privacy of potential partners these discussions may be held in "closed-door" sessions that are not open to the public or general membership. However, no parnership agreement may be proposed without full details of what shall be built or provided by any organization taking part in the agreement.
+
+**Section 5.3 - Conflicts of Interest.** Any potential conflicts of interest held by partnership negotiators, ADAO Core Contributors, ADAO working group leads, or partner organization leadeship shall be disclosed to the ADAO membership when a partnership proposal is presented. This shall include but is not limited to affiliation with the partner organization, significant holdings of tokens issued by the partner organization, and proposed individual compensation of ADAO contributors. ADAO membership shall determine whether a potential conflict of interest is disqualifying or can be managed.
+
+**Section 5.4 - Ratifying Partnerships.** Partnerships shall be ratified through the proposal process. Prospective partnerships may be announced but will not have official standing until the related proposal is passed.
+
+**Section 5.5 - Partnership Limitations.** ADAO reserves the right to withdraw from a partnership at any time by a vote of membership through the proposal process. All products made for partnerships shall follow the development spirit of ADAO to place code under an open license.
 
 # Article VI - Member Removal and Exit 
 
@@ -119,6 +125,10 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
 - Payments for services rendered by persons designated by the organization.
 
 **Section 7.2 - Fiscal year.** The fiscal year of ADAO shall be the calendar year beginning January 1st and Ending December 31st.
+
+**Section 7.3 - Governance Shares and Capital Shares.** It is noted that different Designated Smart Contracts have different manners of managing governance shares (“GovToken”) versus contributed capital and efforts resulting in retains to ADAO (“Treasury Shares”). ADAO members have no rights of redemption of any working capital, or token assets, held within ADAO. No redemption may be offered without revision to the Designated Smart Contract and an amendment to this Constitution. 
+
+It is not anticipated that ADAO will ever turn a “profit” as excess capital will be paid out via charitable donations, grants, or other forms of support meant to carry out the Mission Statement. 
 
 # Article VIII - Legal Matters
 
