@@ -188,6 +188,6 @@ It is not anticipated that ADAO will ever turn a “profit” as excess capital 
 - (vii) “Token” means a digital unit that is recognized by the Designated Client on the Designated Blockchain Network as capable of: (a) being uniquely associated with or “owned” by a particular public-key address on the Designated Blockchain Network at each particular block height; and (b) having Transfers of such digital unit recorded on the Designated Blockchain.
 - (viii) “Transfer” of a Token to a given address (the “Receiving Address”) on the Designated Blockchain Network will be deemed to have occurred if and only if it is recognized by the Designated Client on the Designated Blockchain Network that: 
 - (ix) there has been duly transmitted to the Designated Blockchain Network a new transfer function transaction that:(a) provides for the reassociation of the Designated Token with the Receiving Address; and (b) is signed by a private key that is (or a group of private keys that together are) sufficient to authorize the execution of such transfer function; and
-- (git x) such transaction has been Confirmed.
+- (x) such transaction has been Confirmed.
 
 (u) **"Member Removal"**  means removal from the membership via vote of GovToken Holders or other process as described in the Handbook. Unless specifically provided otherwise a member subject to Membership Removal shall not be entitled to any distribution or return of capital, funds, retains, etc.
