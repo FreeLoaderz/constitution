@@ -1,6 +1,6 @@
 # Constitution of ADAO Community Association 
 
-### Originally Adopted xx March, 2022, Cardano Epoch xxx
+### Originally Adopted 1st March, 2022, Cardano Epoch 324
 
 # Preamble
 
