@@ -1,4 +1,4 @@
-# ADAO Constitution Information
+# WORK IN PROGRESS: Forked from ADAO Constitution Information
 
 Most recently ratified version (v01): IPFS:
 
