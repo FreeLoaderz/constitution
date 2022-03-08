@@ -7,7 +7,7 @@ Most recent ratification DAO vote:
 The above ratified version shall be held as master operating document for FreeLoaderz. Any divergent code in this repo or a fork is provisional until ratified.
 
 
-Document based substantially on: https://github.com/FreeLoaderz
+Document based substantially on: https://github.com/FreeLoaderz/constitution
 
 
 
