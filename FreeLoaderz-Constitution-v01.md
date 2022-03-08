@@ -10,7 +10,7 @@ We seek to operate our organization according to the principles made manifest in
 
 # Article I - Organization
 
-**Section 1.1 - Status.**  FreeLoaderz Community Association (referred to in this agreement as “FreeLoaderz”) is an unincorporated nonprofit decentralized autonomous organization operating on the Cardano blockchain platform.
+**Section 1.1 - Status.**  Section 1.1 - Status. FreeLoaderz DAO LLC is an unincorporated nonprofit association under Wyo. Stat. Title 17, Ch. 22 of the laws of the state of Wyoming.
 
 FreeLoaderz is not intended to be, and shall not be deemed to be, a partnership. 
 
