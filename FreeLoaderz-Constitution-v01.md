@@ -30,7 +30,7 @@ FreeLoaderz is not intended to be, and shall not be deemed to be, a partnership.
 6. cooperation with other DAO cooperatives; and 
 7. concern for community.
 
-**Section 1.5 - Nondiscrimination.** FreeLoaderz shall not arbitrarily discriminate on the basis of race, nationality, religion, age, gender, sexual orientation, disability, political affiliation, or otherwise.  
+**Section 1.5 - Nondiscrimination.** FreeLoaderz shall not arbitrarily discriminate on the basis of race, nationality, religion, age, gender, sexual orientation, disability, political affiliation, or other legally protected characteristics.
 
 **Section 1.6 - Decentralized Autonomous Organization (DAO).** FreeLoaderz is a DAO, an unincorporated association of individuals, entities, associations and/or other persons or groups of persons who all agree to join together in a common purpose. For FreeLoaderz that purpose is encapsulated in our Mission Statement.
 
