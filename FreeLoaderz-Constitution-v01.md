@@ -6,7 +6,7 @@
 
 As users of the Cardano network, the members of FreeLoaderz come together to form this organization that will serve our community.  Our founders originate from around the world, with different identities and experiences. We are brought together in our hope that decentralized technologies will allow us to cooperate in a renewed spirit of honesty and equality.
 
-We seek to operate our organization according to the principles made manifest in blockchain technologies.  Our knowledge shall be shared, and our actions shall be auditable.  Our motivations shall be transparent, and our records shall be immutable.  We will provide a forum where all voices are heard, and governance that ensures that the will of the whole shall be executed.  Anyone may associate or disassociate freely while we collectively build tools for everyone to use.  The mantra of our organization shall be this one unrelenting quest: Decentralization Together.
+We seek to operate our organization according to the principles made manifest in blockchain technologies.  Our knowledge shall be shared, and our actions shall be auditable.  Our motivations shall be transparent, and our records shall be immutable.  We will provide a forum where all voices are heard, and governance that ensures that the will of the whole shall be executed.  Anyone may associate or disassociate freely while we collectively build tools for everyone to use.  The spirit of our organization shall be this one unrelenting quest: Decentralization Together.
 
 # Article I - Organization
 
