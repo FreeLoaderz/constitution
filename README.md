@@ -1,4 +1,4 @@
-# WORK IN PROGRESS: FreeLoaderz Constitution Information
+# FreeLoaderz Constitution Information
 
 Most recently ratified version (v01): IPFS:
 
