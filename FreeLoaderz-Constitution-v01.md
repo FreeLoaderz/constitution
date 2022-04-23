@@ -1,6 +1,6 @@
 # Constitution of FreeLoaderz Community Association 
 
-### WORK IN PROGRESS: NOT ADOPTED YET -- Insert adoption date/timestamp here
+# Adopted April 20th, 2022 by DAO vote
 
 # Preamble
 
